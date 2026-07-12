@@ -1,0 +1,7 @@
+{
+  "version": "v1.2.0-ota",
+  "url": "https://raw.githubusercontent.com/matghid/palanote_firmware/main/palanote-1.2.0-ota.bin",
+  "size": 1350496,
+  "sha256": "0d64adad2a8a8801c4e970d3428cb02adae490be0a5ea24669e65d9e2858da7e",
+  "notes": "Prima versione con aggiornamenti firmware via Wi-Fi."
+}
