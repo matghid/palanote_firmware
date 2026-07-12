@@ -1,8 +1,8 @@
 {
-  "version": "v1.2.1-ota",
-  "url": "https://raw.githubusercontent.com/matghid/palanote_firmware/main/palanote-1.2.1-ota.bin",
-  "parts": 3,
-  "size": 1350992,
-  "sha256": "3989ec407540d253cfa3ca115766fdb9693a694cbac9f067f1f1f33d1b9ae9be",
-  "notes": "Primo aggiornamento OTA di verifica."
+  "version": "v1.2.2-ota",
+  "url": "https://raw.githubusercontent.com/matghid/palanote_firmware/main/odin-1.2.2-ota.bin",
+  "parts": 14,
+  "size": 1351120,
+  "sha256": "bbf95b8ba4c3014440bfdfc0cf1315d5d076a71055b3d5d73a25fd415862de97",
+  "notes": "Nuova identita Odin: marchio, configurazione Wi-Fi ed esportazioni rinominati."
 }
