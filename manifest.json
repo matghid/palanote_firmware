@@ -1,7 +1,7 @@
 {
   "version": "v1.2.2-ota",
   "url": "https://raw.githubusercontent.com/matghid/palanote_firmware/main/odin-1.2.2-ota.bin",
-  "parts": 14,
+  "parts": 8,
   "size": 1351120,
   "sha256": "bbf95b8ba4c3014440bfdfc0cf1315d5d076a71055b3d5d73a25fd415862de97",
   "notes": "Nuova identita Odin: marchio, configurazione Wi-Fi ed esportazioni rinominati."
