@@ -1,8 +1,8 @@
 {
-  "version": "v1.2.2-ota",
-  "url": "https://raw.githubusercontent.com/matghid/palanote_firmware/main/odin-1.2.2-ota-r1.bin",
-  "parts": 8,
-  "size": 1351120,
-  "sha256": "bbf95b8ba4c3014440bfdfc0cf1315d5d076a71055b3d5d73a25fd415862de97",
-  "notes": "Nuova identita Odin: marchio, configurazione Wi-Fi ed esportazioni rinominati."
+  "version": "v1.3.0-ota",
+  "url": "https://raw.githubusercontent.com/matghid/palanote_firmware/main/odin-1.3.0-ota.bin",
+  "parts": 3,
+  "size": 1358160,
+  "sha256": "fd9872eacf2a32432d5c090216ecf9f5ea14cb92a922ce627fa595244d64dcc0",
+  "notes": "Aggiunge il mini corvo Tamagotchi con cinque pose, Umore, Energia e azioni persistenti."
 }
